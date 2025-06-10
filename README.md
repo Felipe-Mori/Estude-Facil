@@ -1,6 +1,7 @@
 # Estude Fácil
 
-![istockphoto-610961928-612x612](https://github.com/user-attachments/assets/19966171-59da-4126-8df9-ef6b0a2fb3f7)
+![istockphoto-610961928-612x612](https://github.com/user-attachments/assets/073afc9f-a37e-4156-85c5-106161349fd9)
+
 
 
 # Sobre o Projeto
