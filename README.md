@@ -118,4 +118,5 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [licença M
 
 # Agradecimentos
 
-Agradecimentos a equipe e a todos os professores em especil o Professor Carmino da Universidade São Judas, que colaborou com ideias, testes e feedbacks construtivos para tornar este sistema mais útil e acessível.
+Agradecimentos a equipe e a todos os professores em especial o Professor Carmino da Universidade São Judas, que colaborou com ideias, testes e feedbacks construtivos para tornar este sistema mais útil e acessível.
+
